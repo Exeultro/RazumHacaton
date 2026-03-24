@@ -1,0 +1,14 @@
+.git
+.gitignore
+README.md
+.env
+.DS_Store
+*.log
+tmp/
+dist/
+node_modules/
+*.exe
+front/node_modules/
+front/dist/
+front/.env.development
+front/.env.production
